@@ -5,7 +5,7 @@ Source & Copyright : [https://github.com/emsifa/api-wilayah-indonesia](https://g
 Repository ini berisi source code untuk generate (REST) API statis berisi data wilayah Indonesia
 serta perintah untuk mendeploynya ke _static hosting_ [Github Page](https://pages.github.com/).
 
-Demo: [https://septianadi27.github.io/api-wilayah-id](https://septianadi27.github.io/api-wilayah-id)
+Demo: [https://septianadi27.github.io/api-wilayah-id/static/](https://septianadi27.github.io/api-wilayah-id/static/)
 
 #### Apa yang dimaksud API statis? 
 
