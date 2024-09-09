@@ -1,0 +1,24 @@
+{
+  "name": "api-wilayah-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/septianadi27/api-wilayah-id.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/septianadi27/api-wilayah-id/issues"
+  },
+  "homepage": "https://github.com/septianadi27/api-wilayah-id#readme",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}

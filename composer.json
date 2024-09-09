@@ -1,0 +1,18 @@
+{
+    "name": "septianadi27/api-wilayah",
+    "description": "Public API Wilayah Indonesia",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Septian Adi",
+            "email": "septian.adipratama85@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SeptianAdi\\ApiWilayah\\": "src/"
+        }
+    },
+    "require": {}
+}
