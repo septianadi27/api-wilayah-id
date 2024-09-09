@@ -1,6 +1,6 @@
 API Data Wilayah Indonesia
 ==========================
-Source & Copyright : [https://github.com/emsifa/api-wilayah-indonesia] (https://github.com/emsifa/api-wilayah-indonesia)
+Source & Copyright : [https://github.com/emsifa/api-wilayah-indonesia](https://github.com/emsifa/api-wilayah-indonesia)
 
 Repository ini berisi source code untuk generate (REST) API statis berisi data wilayah Indonesia
 serta perintah untuk mendeploynya ke _static hosting_ [Github Page](https://pages.github.com/).
